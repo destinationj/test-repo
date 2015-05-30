@@ -1,2 +1,2 @@
 # test-repo
-Test repository for first set of projects
+Test repository for training project
